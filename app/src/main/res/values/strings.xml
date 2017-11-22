@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="hint">mesaj</string>
+    <string name="send">gonder</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+    <string name="chooser">Send Messages Via ...</string>
+</resources>
